@@ -19,5 +19,5 @@ Deve abrir o app na tela home
     Close Application
 
 
-# robot -d ./yodapp-robot/logs ./yodapp-robot/tests/home.robot
+# robot -d ./logs tests/home.robot 
 
